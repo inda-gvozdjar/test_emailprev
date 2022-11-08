@@ -1,0 +1,10 @@
+.App {
+  white-space: pre-line;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
